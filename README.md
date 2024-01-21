@@ -1,2 +1,5 @@
 # Goalie-Rotation-Timer
-This is a device to help keeping track of who's turn it is to be the goalie. Normally we use an interval timer app (on my phone) so i wanted to have an independent device to help me keep track.
+This is a device to help keeping track of who's turn it is to be the goalie. 
+
+Normally we use an interval timer app (on my phone) so i wanted to have an independent device to help me keep track.
+It's also possible to add scored goals to keep track of the score.
